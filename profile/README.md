@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/playevergreen/.github/main/profile/assets/banner.svg" alt="EVERGREEN: Build your life. Find your people." width="100%">
+  <img src="https://raw.githubusercontent.com/playevergreen/.github/main/profile/assets/evergreen-studio-banner.jpg" alt="EVERGREEN: Build your life. Find your people." width="100%">
 </p>
 
 <p align="center">
