@@ -1,41 +1,79 @@
-# EVERGREEN
+<p align="center">
+  <img src="https://raw.githubusercontent.com/playevergreen/.github/main/profile/assets/banner.svg" alt="EVERGREEN: Build your life. Find your people." width="100%">
+</p>
 
-### Build your life. Find your people. Make it home.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-planowanie-E0A458?style=for-the-badge" alt="status: planowanie">
+  <img src="https://img.shields.io/badge/gatunek-cozy%20life%20sim-7FB069?style=for-the-badge" alt="gatunek: cozy life sim">
+  <img src="https://img.shields.io/badge/platforma-macOS%20(Apple%20silicon)-111111?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/Steam-planowany-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam: planowany">
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/status-planowanie-orange" alt="status">
-  <img src="https://img.shields.io/badge/gatunek-cozy%20life%20sim-8BC34A" alt="gatunek">
-  <img src="https://img.shields.io/badge/platforma-macOS%20(Apple%20silicon)-black?logo=apple" alt="macOS">
-  <img src="https://img.shields.io/badge/Steam-planowany-1b2838?logo=steam" alt="Steam">
+<p align="center">
+  <b>EVERGREEN</b> to studio tworzące cozy life sim w 3D.<br>
+  Widok zza pleców postaci, duży wspólny świat online i świat, który czeka na ciebie, kiedy wrócisz.
 </p>
 
 ---
 
-**EVERGREEN** to studio tworzące cozy life sim w 3D: widok zza pleców postaci i duży, wspólny świat online.
+## Dlaczego EVERGREEN
 
-Chcemy, żeby świat wracał do ciebie, bo jest w nim twoje życie i twoi znajomi. Nie ma tu wyścigu o ekwipunek, rankingów siły ani obowiązkowych zadań dziennych. Gracz może zostawić grę na tydzień i nic w niej nie zginie.
+Chcemy, żeby gra była miejscem, do którego chce się wracać, bo jest w nim twoje życie i twoi znajomi.
+Nie ma tu wyścigu o ekwipunek, rankingów siły ani obowiązkowych zadań dziennych.
+**Możesz zostawić grę na tydzień, a nic w niej nie zginie.**
 
-## Co budujemy
+## Filary
 
-- **Swobodne życie.** Farma to jeden z wielu sposobów na życie, nie jedyny.
-- **Tworzenie.** Budowanie, projektowanie i personalizacja domu.
-- **Ludzie.** Współpraca i relacje między graczami to główna wartość produktu.
-- **Gospodarka.** Handel i specjalizacja zawodowa, bez przewagi za pieniądze.
+| | Filar | Co to znaczy dla gracza |
+| :---: | --- | --- |
+| 🌿 | **Freedom** | swoboda wyboru sposobu życia |
+| 🛠️ | **Creativity** | budowanie, projektowanie i personalizacja domu |
+| 🤝 | **Community** | współpraca i relacje z innymi graczami |
+| 🗺️ | **Discovery** | eksploracja i sekrety świata |
+| 🧺 | **Economy** | handel i specjalizacja zawodowa |
+| ☕ | **Cozy Living** | spokojne tempo bez presji czasu |
 
-## Stan
+## Czego nie robimy
 
-Gra jest na etapie planowania i prototypowania. Pierwsze wydanie planujemy na macOS (Apple silicon). Obsługa Windows jest częścią planu, ale wydanie odroczone. Nie podajemy terminu premiery, dopóki nie będzie potwierdzony.
+- **Nie karzemy za nieobecność.** Farma nie umiera po tygodniu przerwy.
+- **Nie sprzedajemy przewagi.** Kosmetyki i waluta za pieniądze nie dają przewagi ekonomicznej.
+- **Nie zmuszamy do codziennych zadań.** Brak serii i premii za logowanie.
 
-## Zasady, którymi kierujemy się w pracy
+## Stan prac
 
-- Nie zaczynamy implementacji bez zatwierdzonej specyfikacji.
-- Każda decyzja projektowa jest zapisana i uzasadniona.
-- Serwer jest autorytatywny. Ekonomia jest walidowana po stronie serwera.
+| Obszar | Stan |
+| --- | --- |
+| Wizja i filary | opisane |
+| Game Design Document | szkic v0, w trakcie rozwoju |
+| Specyfikacje | proces Spec-Driven Development, zatwierdzane po recenzji |
+| Platforma | pierwsze wydanie na macOS (Apple silicon) |
+| Windows | odroczony, ale gotowość na tę platformę jest wymagana |
+| Premiera | termin nieustalony |
 
-## Kontakt
+Nie podajemy daty premiery, dopóki nie będzie potwierdzona.
 
-Masz pytanie albo chcesz pomóc? Zajrzyj do repozytoriów organizacji i zostaw issue.
+## Jak pracujemy
+
+1. **Najpierw specyfikacja.** Nie zaczynamy implementacji bez zatwierdzonego opisu.
+2. **Każda decyzja jest zapisana.** Zmiany projektowe trafiają do rejestru decyzji (ADR).
+3. **Serwer jest autorytatywny.** Ekonomia i postęp są sprawdzane po stronie serwera.
+
+## Repozytoria
+
+| Repo | Zawartość |
+| --- | --- |
+| `game` | klient i serwer dedykowany |
+| `backend` | API i logika gry w NestJS |
+| `infra` | infrastruktura, Terraform, monitoring |
+| `art-source` | pliki źródłowe grafiki i audio |
+| `web` | strona, opis sklepu, devlogi |
+
+Repozytoria projektu są prywatne. Ten profil opisuje studio publicznie.
 
 ---
 
-<sub>© EVERGREEN. Wszelkie prawa zastrzeżone.</sub>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/playevergreen/web/main/site/public/logo-leaf.svg" alt="" width="40">
+  <br>
+  <sub>© EVERGREEN. Wszelkie prawa zastrzeżone.</sub>
+</p>
