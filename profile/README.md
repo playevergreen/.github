@@ -44,15 +44,6 @@ Wyobraź sobie miejsce, w którym czas płynie wolniej. Rano podlewasz grządki,
 
 EVERGREEN ukaże się na **Steamie**. Pierwsza wersja zostanie wydana na **macOS** (Apple silicon), a wsparcie dla innych platform jest w planach. Premiera jeszcze nie ma daty. Jak tylko ją ustalimy, pojawi się tutaj.
 
-## Bądź w pobliżu
-
-Chcesz wiedzieć jako pierwszy, co się dzieje w świecie EVERGREEN? Wpadaj tu regularnie i śledź nasze repozytoria.
-
-| Repozytorium | Co znajdziesz |
-| --- | --- |
-| [`web`](https://github.com/playevergreen/web) | strona gry, opis sklepu, devlogi |
-| [`game`](https://github.com/playevergreen/game) | klient gry i serwer |
-
 ---
 
 <p align="center">
